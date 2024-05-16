@@ -10,6 +10,8 @@ Gameplay: https://youtu.be/MrjOqBVdTio?si=X2ptWmoRTNv-caay
 
 In-class demonstration: https://youtu.be/HWLxTtXKFdg
 
+Repository: https://github.com/carmendetroit/ChefBattle
+
 ## HW1
 
 This homework is not a complete game, instead a scene to show I am capable of doing some basics.
